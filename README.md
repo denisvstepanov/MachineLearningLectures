@@ -22,3 +22,7 @@
 * scikit-learn.org
 * www.kaggle.com
 * https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
+### References:
+
+* http://colah.github.io/
