@@ -23,6 +23,16 @@
 * www.kaggle.com
 * https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
-### References:
+### Blogs:
 
 * http://colah.github.io/
+* http://www.inference.vc/deep-learning-is-easy/
+
+### Books:
+* *Simon Haykin* Neural Networks and Learning Machines: https://www.amazon.com/Neural-Networks-Learning-Machines-3rd/dp/0131471392 (2nd edition was translated to russian)
+* *Sebastian Raschka* Python Machine Learning: https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning
+* *Christopher Bishop* Pattern Recognition and Machine Learning https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738 (a free pdf copy is available - first link in Google)
+* *Trevor Hastie, Robert Tibshirani, Jerome Friedman* The Elements of Statistical Learning http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+
+### Articles:
+* Automatic Differentiation of Algorithms for Machine Learning https://arxiv.org/pdf/1404.7456.pdf
